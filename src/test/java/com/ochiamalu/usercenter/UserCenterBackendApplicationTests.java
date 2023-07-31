@@ -1,4 +1,4 @@
-package com.ochiamalu.user;
+package com.ochiamalu.usercenter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

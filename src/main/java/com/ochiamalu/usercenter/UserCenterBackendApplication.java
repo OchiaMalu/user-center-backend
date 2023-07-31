@@ -1,4 +1,4 @@
-package com.ochiamalu.user;
+package com.ochiamalu.usercenter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
